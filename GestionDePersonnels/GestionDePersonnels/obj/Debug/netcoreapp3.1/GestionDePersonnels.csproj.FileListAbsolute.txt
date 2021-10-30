@@ -1,0 +1,421 @@
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.exe
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.deps.json
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.runtimeconfig.json
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.runtimeconfig.dev.json
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.pdb
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.Views.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.Views.pdb
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.csprojAssemblyReference.cache
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.AssemblyInfo.cs
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorAssemblyInfo.cache
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorAssemblyInfo.cs
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\staticwebassets\GestionDePersonnels.StaticWebAssets.Manifest.cache
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\staticwebassets\GestionDePersonnels.StaticWebAssets.xml
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\scopedcss\bundle\GestionDePersonnels.styles.css
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.TagHelpers.input.cache
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.TagHelpers.output.cache
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorCoreGenerate.cache
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Person\Index.cshtml.g.cs
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorTargetAssemblyInfo.cache
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorTargetAssemblyInfo.cs
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.Views.pdb
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.csproj.CopyComplete
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.dll
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.pdb
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.genruntimeconfig.cache
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Person\AddPerson.cshtml.g.cs
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Person\UpdatePerson.cshtml.g.cs
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Event\AddNewEvent.cshtml.g.cs
+C:\Users\david\source\repos\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Event\Update.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.exe
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.deps.json
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.runtimeconfig.json
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.runtimeconfig.dev.json
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.pdb
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.Views.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.Views.pdb
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.AssemblyInfo.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorAssemblyInfo.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorAssemblyInfo.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\staticwebassets\GestionDePersonnels.StaticWebAssets.Manifest.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\staticwebassets\GestionDePersonnels.StaticWebAssets.xml
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\scopedcss\bundle\GestionDePersonnels.styles.css
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.TagHelpers.input.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.TagHelpers.output.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorCoreGenerate.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Event\AddNewEvent.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Event\Update.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Person\AddPerson.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Person\Index.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Person\UpdatePerson.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorTargetAssemblyInfo.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorTargetAssemblyInfo.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.Views.pdb
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.csproj.CopyComplete
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.pdb
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.genruntimeconfig.cache
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.exe
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.deps.json
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.runtimeconfig.json
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.runtimeconfig.dev.json
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.pdb
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.Views.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.Views.pdb
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.AssemblyInfo.cs
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorAssemblyInfo.cache
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorAssemblyInfo.cs
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.TagHelpers.input.cache
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.TagHelpers.output.cache
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorCoreGenerate.cache
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Event\AddNewEvent.cshtml.g.cs
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Event\Update.cshtml.g.cs
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Person\AddPerson.cshtml.g.cs
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Person\Index.cshtml.g.cs
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Person\UpdatePerson.cshtml.g.cs
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorTargetAssemblyInfo.cache
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorTargetAssemblyInfo.cs
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.Views.pdb
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.csproj.CopyComplete
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\staticwebassets\GestionDePersonnels.StaticWebAssets.Manifest.cache
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\staticwebassets\GestionDePersonnels.StaticWebAssets.xml
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.dll
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.pdb
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.genruntimeconfig.cache
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\GestionDePersonnels (1)\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.exe
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.deps.json
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.runtimeconfig.json
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.runtimeconfig.dev.json
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.pdb
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.Views.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.Views.pdb
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.AssemblyInfo.cs
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorAssemblyInfo.cache
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorAssemblyInfo.cs
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\staticwebassets\GestionDePersonnels.StaticWebAssets.Manifest.cache
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\staticwebassets\GestionDePersonnels.StaticWebAssets.xml
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\scopedcss\bundle\GestionDePersonnels.styles.css
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.TagHelpers.input.cache
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.TagHelpers.output.cache
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorCoreGenerate.cache
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Event\AddNewEvent.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Event\Update.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Person\AddPerson.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Person\Index.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Person\UpdatePerson.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorTargetAssemblyInfo.cache
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorTargetAssemblyInfo.cs
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.Views.pdb
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.csproj.CopyComplete
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.dll
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.pdb
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.genruntimeconfig.cache
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\SalaryInvoice\Index.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\SalaryInvoice\GetSalaryInvoice.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\SalaryInvoice\GetSalaryInvoiceAddForm.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.exe
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.deps.json
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.runtimeconfig.json
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.runtimeconfig.dev.json
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.pdb
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.Views.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\GestionDePersonnels.Views.pdb
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.AssemblyInfo.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorAssemblyInfo.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorAssemblyInfo.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\staticwebassets\GestionDePersonnels.StaticWebAssets.Manifest.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\staticwebassets\GestionDePersonnels.StaticWebAssets.xml
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\scopedcss\bundle\GestionDePersonnels.styles.css
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.TagHelpers.input.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.TagHelpers.output.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorCoreGenerate.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Event\AddNewEvent.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Event\Update.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Person\AddPerson.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Person\Index.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Person\UpdatePerson.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\SalaryInvoice\GetSalaryInvoice.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\SalaryInvoice\GetSalaryInvoiceAddForm.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\SalaryInvoice\Index.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorTargetAssemblyInfo.cache
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.RazorTargetAssemblyInfo.cs
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.Views.pdb
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.csproj.CopyComplete
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.dll
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.pdb
+C:\Users\david\OneDrive\Bureau\projets_cs\GestionDePersonnel\GestionDePersonnels\GestionDePersonnels\obj\Debug\netcoreapp3.1\GestionDePersonnels.genruntimeconfig.cache

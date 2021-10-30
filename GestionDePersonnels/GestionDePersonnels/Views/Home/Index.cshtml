@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4" style="color:white">Welcome</h1>
+</div>
+
+
+
+
+<div class="login-box">
+    <h1>Login</h1>
+    <form action="/Home/Index" method="post">
+        <div class="textbox">
+            <i class="fas fa-user"></i>
+            <input type="text" name="username" placeholder="username">
+        </div>
+
+        <div class="textbox">
+            <i class="fas fa-lock"></i>
+            <input type="password" name="password" placeholder="Password">
+        </div>
+
+        <input type="submit" class="btn" value="Login">
+        @Html.ValidationMessage("CustomError")
+
+    </form>
+</div>

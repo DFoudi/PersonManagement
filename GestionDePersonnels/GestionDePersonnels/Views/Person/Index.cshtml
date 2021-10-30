@@ -1,0 +1,67 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var persons = ViewBag.persons;
+}
+
+<a asp-action="AddPerson" class="btn btn-primary">Add new person</a>
+<br />
+<br />
+
+<table id="example" class="display" style="width:100%">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>FirstName</th>
+            <th>BirthDate</th>
+            <th>Age</th>
+            <th>Email</th>
+            <th>PhoneNumber</th>
+            <th>Address</th>
+            <th>City</th>
+            <th>Delete</th>
+            <th>Update</th>
+            <th>Fiche paie</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var person in persons)
+        {
+            <tr>
+                <td>@person.Name</td>
+                <td>@person.FirstName</td>
+                <td>@person.BirthDate</td>
+                <td>@person.Age</td>
+                <td>@person.Email</td>
+                <td>@person.PhoneNumber</td>
+                <td>@person.Address</td>
+                <td>@person.City</td>
+                <td>
+                    <form asp-controller="Person" asp-action="DeletePerson" asp-route-id="@person.Id">
+                        <button class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+                <td>
+                    <form asp-controller="Person" asp-action="UpdatePerson" asp-route-id="@person.Id">
+                        <button class="btn btn-info">Update</button>
+                    </form>
+                </td>
+                <td>
+                    <form asp-controller="SalaryInvoice" asp-action="GetSalaryinvoiceOrAddSalaryInvoiceForm" asp-route-email="@person.Email">
+                        <button class="btn btn-outline-warning">Fiche de paie</button>
+                    </form>                </td>
+            </tr>
+        } 
+    </tbody>
+</table>
+
+        @section Scripts {
+            <script type="text/javascript">
+                $(function () {
+                    $(document).ready(function () {
+                        $('#example').DataTable();
+                    });
+                });
+            </script>
+        }

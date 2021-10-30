@@ -1,0 +1,98 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var events = ViewBag.events;
+}
+
+
+<a asp-controller="Event" asp-action="AddNewEvent" class="btn btn-primary">Add new event</a>
+
+
+<table id="example" class="display" style="width:100%">
+    <thead>
+        <tr style="margin-right:auto">
+            <th>Name</th>
+            <th>Date</th>
+            <th>Address</th>
+            <th>City</th>
+            <th>Room</th>
+            <th>OrganizerId</th>
+            <th>Delete</th>
+            <th>Update</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ev in events)
+        {
+            <tr>
+                <td>@ev.Name</td>
+                <td>@ev.Date</td>
+                <td>@ev.Address</td>
+                <td>@ev.City</td>
+                <td>@ev.Room</td>
+                <td>@ev.OrganizerId</td>
+                <td>
+                    <form asp-controller="Event" asp-action="DeleteEvent" asp-route-id="@ev.Id">
+                        <button class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+                <td>
+                    <form asp-controller="Event" asp-action="Update" asp-route-id="@ev.Id">
+                        <button class="btn btn-info">Update</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+@*<table id="example" class="display" style="width:100%">
+    <thead>
+        <tr>
+        <tr style="margin-right:auto">
+            <th>Name</th>
+            <th>Date</th>
+            <th>Address</th>
+            <th>City</th>
+            <th>Room</th>
+            <th>OrganizerId</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ev in events)
+        {
+            <tr>
+                <td>@ev.Name</td>
+                <td>@ev.Date</td>
+                <td>@ev.Address</td>
+                <td>@ev.City</td>
+                <td>@ev.Room</td>
+                <td>@ev.OrganizerId</td>
+                <td>
+                <td>
+                    <form asp-controller="Person" asp-action="DeleteEvent" asp-route-id="@ev.Id">
+                        <button class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+                <td>
+                    <form asp-controller="Person" asp-action="Update" asp-route-id="@ev.Id">
+                        <button class="btn btn-info">Update</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>*@
+
+        @section Scripts {
+            <script type="text/javascript">
+                $(function () {
+                    $(document).ready(function () {
+                        $('#example').DataTable();
+                    });
+                });
+            </script>
+        }
