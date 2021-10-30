@@ -1,0 +1,3 @@
+# Gestion du personnel d'une entreprise
+
+Une application créé sous ASP.Net avec C#, Bootstrap, JavaScript et SQL Server Management. Afin de gérer la lecture, la création, la modif et la suppression d'un employé. Un système d'authentification lors du lancement de l'application avec login et mot de passe afin de protéger les données. Possibilité de voir la fiche de salaire et renseignements sur la personne selectionnée. Une barre de recherche par nom et prénom afin de trouver un employé rapidement dans la liste. Section évènement afin de renseigner les différents évènements de la société comme par exemple : réunion, pot de départ ou évènement spéciale. Cette section contient également une barre de recherche dynamique afin de trouver rapidement un évènement dans la liste.
